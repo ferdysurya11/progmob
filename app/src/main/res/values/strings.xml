@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    
+    <string-array name="Team_Esport">
+        <item>Evos Esport</item>
+        <item>Rex Regum Qeon</item>
+        <item>Bigetron</item>
+        <item>Genflix Aerowolf</item>
+        <item>Aura Esport</item>
+        <item>Alter Ego</item>
+        <item>Onic Esport</item>
+        <item>Dewa United</item>
+        <item>Siren Esport</item>
+        <item>Louvre Esport</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>
+           EVOS Esports didirikan pada 21 Agustus 2016 oleh ivan Yeo.
+        </item>
+        <item>
+            Rex Regum Qeon (Team RRQ) didirikan sejak 2013.
+        </item>
+        <item>
+            Bigetron dibentuk pada tanggal 28 Maret 2017.
+        </item>
+        <item>
+            Genflix Aerowolf [GFLX] diresmikan pada tahun 20 Mei 2019 lalu.
+        </item>
+        <item>
+            Organisasi Aura Esports sendiri berdiri sejak Juni 2018.
+        </item>
+        <item>
+            Alter Ego Esport adalah tim yang dijuluki kuda hitam dengan Delwyn sebagai CEO.
+        </item>
+        <item>
+           Onic adalah Tim Manajemen E-Sports Profesional. Didirikan pada tahun 2018.
+        </item>
+        <item>
+            Dewa United dibentuk pada tahun 2020 dan mewadahi 3 cabang olahraga di Tanah Air.
+        </item>
+        <item>
+            Siren Esports yang didirikan oleh Edward Tjahyadikarta atau biasa dipanggil Eiduart.
+        </item>
+        <item>
+            Team Louvre dibentuk pada tahun 2017, Louvre dipimpin oleh Eric Herlangga.
+        </item>
+    </string-array>
+</resources>
